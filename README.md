@@ -1,7 +1,13 @@
 - [DEMO LINK](https://GumenchukAN.github.io/Landing_page/)
 
-Designed and developed a modern and responsive **pots shop landing page** using modern web technologies like **HTML5, and SCSS**. This project presents a wide range of technology, offering users an exciting shopping experience, demonstrating their practicality and high technological capabilities.
+Designed and developed a **modern and fully responsive electronics store landing page** using modern web technologies such as **HTML5** and **SCSS**.
+The landing page features a **clean and user-friendly interface** focused on delivering a smooth and engaging shopping experience.
 
+The project includes a **responsive navigation menu with a slide-out effect**, allowing users to easily navigate between different sections on both **desktop and mobile devices**.
+It consists of **three informational sections** that showcase the **product categories, key advantages, and main features** of the electronics store in a clear and structured way.
+
+Additionally, the landing page contains a **contact section with an interactive contact form**, enabling users to send messages directly through the website.
+Special attention was given to **responsive layout, semantic HTML structure, and cross-browser compatibility**, ensuring **consistent performance across various screen sizes and devices**.
 
 **Built with:**
 - HTML5 for semantic structure
@@ -18,10 +24,10 @@ Designed and developed a modern and responsive **pots shop landing page** using 
 
 **Getting Started:**
 - Clone the repository:
-  - _git clone https://github.com/GumenchukAN/Landing_page.git
+  - git clone https://github.com/GumenchukAN/Landing_page.git
 - Navigate to the project folder:
-  - _cd Landing_page
+  - cd Landing_page
 - Install dependencies:
-  - _npm install_
+  - npm install_
 - Run the project:
-  - _npm start_
+  - npm start_
